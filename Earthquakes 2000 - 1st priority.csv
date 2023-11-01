@@ -1,0 +1,22 @@
+,Time
+,Latitude
+,Longitude
+,Depth
+mag,Magnitude
+magType,Magnitude Type
+nst,Number of Seismic Stations
+gap,Gap
+dmin,dmin
+rms,Root Mean Square
+net,Network
+id,id
+,updated
+,place
+,type
+,horizontal error
+,depth error
+magError,Magnitude Error
+magNst,Magnitude of Number of Seismic Stations
+,Status
+,location source
+magSource,Magnitude Source
